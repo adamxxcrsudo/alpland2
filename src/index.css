@@ -46,4 +46,13 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
   }
+  .site-logo {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    width: 160px;
+    height: auto;
+    z-index: 1000;
+    pointer-events: auto;
+ }
 }
