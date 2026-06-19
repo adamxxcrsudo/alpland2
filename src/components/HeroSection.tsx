@@ -44,9 +44,9 @@ export default function HeroSection() {
               transition={{ duration: 0.7, delay: 0.1 }}
               className="text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-bold tracking-tight leading-[1.1] mb-6"
             >
-              <span className="text-gradient-warm">Mountain Intelligence.</span>
+              <span className="text-gradient-warm">Your Mountain,</span>
               <br />
-              <span className="text-white">Powered by AI.</span>
+              <span className="text-white">Perfected.</span>
             </motion.h1>
 
             <motion.p
@@ -55,7 +55,7 @@ export default function HeroSection() {
               transition={{ duration: 0.7, delay: 0.2 }}
               className="text-base sm:text-lg text-glacier-300 max-w-lg leading-relaxed mb-10"
             >
-              Alpline helps skiers and snowboarders discover resorts, track conditions, generate intelligent itineraries, and plan better days on the mountain.
+              AI-powered mountain planning, live snow intelligence, and personalised ski guidance - all in one premium companion.
             </motion.p>
 
             <motion.div
