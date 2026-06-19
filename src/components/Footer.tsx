@@ -6,7 +6,7 @@ return ( <footer className="relative py-12 border-t border-white/5"> <div classN
     <div className="flex flex-col sm:flex-row items-center justify-between gap-6">
       <div className="flex items-center">
         <img
-          src="/alplinelogo.png"
+          src="alplinelogo.png"
           alt="Alpline"
           className="h-10 w-auto"
         />
